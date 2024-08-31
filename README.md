@@ -6,9 +6,9 @@ São José dos Campos abriga um ecossistema tecnológico dinâmico, com institut
 
 ## Próximos Eventos ✨
 
-| Data     | Título   | Link de Inscrição                                 |
-| -------- | -------- | ------------------------------------------------- |
-| Em breve | Em breve | [Acompanhe aqui](www.meetup.com/gittogether-sjc/) |
+| Data     | Título   | Link de Inscrição                                         |
+| -------- | -------- | --------------------------------------------------------- |
+| Em breve | Em breve | [Acompanhe aqui](https://www.meetup.com/gittogether-sjc/) |
 
 ### Eventos Passados
 
@@ -21,13 +21,13 @@ São José dos Campos abriga um ecossistema tecnológico dinâmico, com institut
 
 **Quer palestrar em um evento?**
 
-- Inscreva-se no nosso [Call 4 Pappers](https://forms.gle/79ZHRLEFuMNt1X1C6) aberta na página do evento.
+- Inscreva-se no nosso [Call 4 Pappers](https://forms.gle/79ZHRLEFuMNt1X1C6)
 - Siga as instruções para enviar sua proposta de palestra inovadora.
 
 **Quer participar?**
 
-- Navegue pelos próximos eventos de alta tecnologia.
-- Registre-se por meio dos links de inscrição fornecidos.
+- Navegue pelos próximos eventos de alta tecnologia, [Acompanhe aqui](https://www.meetup.com/gittogether-sjc/)
+- Registre-se por meio dos links de inscrição da nossa página no Meetup
 
 **Tem feedback, quer sugerir um tópico cutting-edge ou contribuir de outras maneiras? Adoraríamos ouvir de você!**
 
@@ -46,7 +46,7 @@ Vamos unir forças para construir uma comunidade de código aberto de última ge
 
 **Siga-nos nas redes sociais:**
 
-- [Redes Sociais da Github Community de SJC](linktr.ee/githubcommunitysjc)
+- [Redes Sociais da Github Community de SJC](https://linktr.ee/githubcommunitysjc)
 - [https://www.instagram.com/githubbrasil](https://www.instagram.com/githubbrasil)/
 - [https://www.twitter.com/githubbrasil/](https://www.twitter.com/githubbrasil/)
 
@@ -64,7 +64,7 @@ Vamos impulsionar a inovação e construir uma comunidade de código aberto de p
       <strong>Juliana Conde</strong>
       <p align="center">
         <br>
-        <a href="https://www.instagram.com/juliana_conde_tech/">
+        <a href="https://www.instagram.com/julianacondea/">
           <img src="https://avatars.githubusercontent.com/u/29529757?v=4" height="120" alt="julianaconde">  
         </a>
       </p>
