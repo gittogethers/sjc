@@ -8,7 +8,7 @@ São José dos Campos abriga um ecossistema tecnológico dinâmico, com institut
 
 | Data     | Título   | Link de Inscrição                                         |
 | -------- | -------- | --------------------------------------------------------- |
-| Em breve | Em breve | [Acompanhe aqui](https://www.meetup.com/gittogether-sjc/) |
+| 2024-10-03 | GitTogether - WTM Rosa | [Acompanhe aqui](https://www.meetup.com/gittogether-brasil/events/303639749/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) |
 
 ### Eventos Passados
 
