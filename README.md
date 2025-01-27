@@ -9,7 +9,6 @@ São José dos Campos abriga um ecossistema tecnológico dinâmico, com institut
 | Data       | Título                           | Link de Inscrição                                                                                                                                                |
 | ---------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2025-01-27 | Mentoria Github Foundations Exam | [Acompanhe aqui](https://www.meetup.com/gittogether-brasil/events/305525470/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) |
-| 2025-01-27 | Mentoria Github Foundations Exam | [Acompanhe aqui](https://www.meetup.com/gittogether-brasil/events/305525470/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) |
 
 ### Eventos Passados
 
