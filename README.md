@@ -6,18 +6,19 @@ São José dos Campos abriga um ecossistema tecnológico dinâmico, com institut
 
 ## Próximos Eventos ✨
 
-| Data     | Título   | Link de Inscrição                                         |
-| -------- | -------- | --------------------------------------------------------- |
-| 2025-01-27 | Mentoria Github Foundations Exam| [Acompanhe aqui](https://www.meetup.com/gittogether-brasil/events/305525470/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) |
+| Data       | Título                           | Link de Inscrição                                                                                                                                                |
+| ---------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025-01-27 | Mentoria Github Foundations Exam | [Acompanhe aqui](https://www.meetup.com/gittogether-brasil/events/305525470/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) |
+| 2025-01-27 | Mentoria Github Foundations Exam | [Acompanhe aqui](https://www.meetup.com/gittogether-brasil/events/305525470/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) |
 
 ### Eventos Passados
 
-| Data       | Título                          | Link de Inscrição                                                                                                                                                  |
-| ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Data       | Título                               | Link de Inscrição                                                                                                                                                  |
+| ---------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2024-11-30 | GitTogether SJC - Season of Copilots | [Resumo do Evento](https://www.meetup.com/gittogether-brasil/events/304531284/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) |
-| 2024-10-03 | GitTogether - WTM Rosa | [Resumo do Evento](https://www.meetup.com/gittogether-brasil/events/303639749/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) |
-| 2024-08-29 | Do CI ao CD com Github Actions  | [Resumo do Evento](https://www.meetup.com/gittogether-brasil/events/302984351/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) |
-| 2024-08-01 | Estreia da Github Community SJC | [Resumo do Evento](https://www.meetup.com/gittogether-sjc/events/301865357/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)    |
+| 2024-10-03 | GitTogether - WTM Rosa               | [Resumo do Evento](https://www.meetup.com/gittogether-brasil/events/303639749/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) |
+| 2024-08-29 | Do CI ao CD com Github Actions       | [Resumo do Evento](https://www.meetup.com/gittogether-brasil/events/302984351/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) |
+| 2024-08-01 | Estreia da Github Community SJC      | [Resumo do Evento](https://www.meetup.com/gittogether-sjc/events/301865357/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)    |
 
 ## Como se Envolver
 
